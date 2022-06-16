@@ -1,0 +1,31 @@
+Devmountain F21 Web Development Specialization Capstone Ideas
+
+1. 
+gottago.com
+a crowd-sourced toilet tracker (users mark toilets and other users confirm them. ratings and comments provided by users)
+utilizing a map API like leaflet or google maps
+including a rating system and comments
+verification system for bathrooms
+
+2.
+app that gets you nearby concert recommendations based on user filters
+links you to ticket website (stubhub, tickets, axs, etc.)
+extension of my foundations capstone
+
+3.
+ecommerce site
+Etsy clone?
+
+4.
+art app for people to make drawings and collages
+save the them in folders
+personalize their website
+
+5.
+website that links to curated dharmic resources
+buddhism, zen, yoga, taoism, spirituality, men's work, femininity, emotional processing, bio-emotive mental health resources, health
+
+6.
+website where users can build a custom website.
+they can fill in titles for drop-down menus, write in them, and fill in the content on the page
+can custom-style website too (e.g. colors, fonts, font size, margins)

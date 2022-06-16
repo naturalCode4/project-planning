@@ -1,0 +1,25 @@
+Description:
+-An application where users can get concert recommendations based on customized preferences/filters
+
+Features:
+-Filters including location, date, and musical taste -- like genre, energy-level, acoustic vs electronic, popularity, that generates concerts based on this.
+-Awesome interface for users to set filters (custom sliders and such)
+-Utilizes spotify's Get Recommendations API and a concert website's API. (This project idea needs more exploration. I need to see what API technologies are available to see if this is possible)
+-Gives links to tickets
+
+Pages:
+-Log in
+-Main, where users 
+-Saved concerts/user's calendar
+
+
+Future features:
+-Users can save ("favorite") concerts they are interested in to folder(s). I really want this to be part of it
+-A login feature with this
+-10 tracks by the artist (if they exist) show up with concert recommendations
+-^That favorites folder is actually a calendar
+-Links to the other website I made, or its built in.
+
+Database:
+Users login info
+Saved concerts folders

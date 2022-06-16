@@ -1,0 +1,82 @@
+Description:
+-A website with curated resources I think are awesome Muahahahaha! Particularly dharma-related resources.
+-Resources include exercises, books, youtube videos, monasteries, people to know, quotes
+
+Features:
+-Home page explaining what is happening
+-Drop down menu for sections. Such as:
+buddhism, yoga, health/well-being, taoism, therapy, men's work, women's work,inner child work,, mental health resources, dreamwork etc.
+-Each section is designed and has links, descriptions, and photos for resources
+-Users can star/unstar (or check, save, whatever) what they want to listen to. Can leave comments/journal entries about it
+-Therefore login feature to view their saves and journals and comments
+
+Pages:
+-Main
+-For each section
+-User's Favorites Page / Journal
+-Contact creator (me!) for recommendations or generally getting-in-touch
+
+Future Features:
+-Search bar by keyword
+-Users can share to social media pages (or at least one)
+-Page for users to send recommended dharma resources by email for the site (for my approval)
+-There's a page where users can write their goals, track meditation, make notes, etc. (or link mindfulspace.org by Haytham Hakim)
+
+Note:
+-The other route to go with this is an open-source resource for anyone to post on. I honestly dont trust it that much. I may set that up so I have to approve everything that comes in
+
+Some things I want to link (i.e. dharma currently curated)
+~Teachers
+    ~Ram Dass' website
+    ~Eckhart Tolle
+    ~Beth Upton
+    ~Doug Tataryn
+    ~Alan Wallace
+    ~Alan Watts
+    ~
+~Music
+    ~Alan Watts Chillstep
+    -Super Mario Chillstep
+    ~Tycho
+~Reading
+    ~Psalms of King David
+    ~AccessToInsight
+    ~Books
+        ~Iron John
+        ~Tao Te Ching
+        ~Shantideva's Way of the Bodhisattva
+        ~Stillness Flowing
+~Talks
+    ~Dharmaseed
+    ~SBInstitute -- Alan Wallace
+    ~"What is Enlightenment" by Upaya Zen Center
+~Programs
+    ~Korinji/Meido's Patreon
+    ~Dharma Gates
+~Practices
+    ~Bio-Emotive Framework
+    ~How to start meditation Practice
+    ~Something like, yo wtf is Buddhism
+~Curated Monastery/Temple Map
+~Sections 
+    ~buddhism
+    ~yoga
+    ~men's work
+    ~taoism
+    ~psychotherapy
+    ~dreamwork
+~Poetry
+    ~Mirabai (love letters to Krishna)
+
+
+
+
+
+
+
+
+
+
+
+
+
